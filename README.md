@@ -4,3 +4,4 @@
 003 HTML Document Structure
 004 Text Elements
 005 More Text Elements Lists
+006 Images and Attributes
