@@ -22,3 +22,4 @@
 007 Working With Colors
 008 Pseudo-classes
 009 Styling Hyperlinks
+010 Using Chrome DevTools
