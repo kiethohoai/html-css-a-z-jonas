@@ -16,3 +16,4 @@
 001 Section Intro
 002 Introduction to CSS
 003 Inline, Internal and External CSS
+004 Styling Text
