@@ -6,3 +6,4 @@
 005 More Text Elements Lists
 006 Images and Attributes
 007 Hyperlinks
+008 Structuring our Page
