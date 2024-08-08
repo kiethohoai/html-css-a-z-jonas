@@ -13,3 +13,5 @@
 012 CHALLENGE #2
 
 03 - CSS Fundamentals
+001 Section Intro
+002 Introduction to CSS
