@@ -21,3 +21,4 @@
 006 Class and ID Selectors
 007 Working With Colors
 008 Pseudo-classes
+009 Styling Hyperlinks
