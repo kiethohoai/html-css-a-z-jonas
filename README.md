@@ -19,3 +19,4 @@
 004 Styling Text
 005 Combining Selectors
 006 Class and ID Selectors
+007 Working With Colors
