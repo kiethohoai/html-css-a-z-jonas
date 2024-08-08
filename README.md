@@ -15,3 +15,4 @@
 03 - CSS Fundamentals
 001 Section Intro
 002 Introduction to CSS
+003 Inline, Internal and External CSS
