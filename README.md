@@ -20,3 +20,4 @@
 005 Combining Selectors
 006 Class and ID Selectors
 007 Working With Colors
+008 Pseudo-classes
