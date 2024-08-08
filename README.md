@@ -11,3 +11,5 @@
 010 Installing Additional VS Code Extensions
 011 CHALLENGE #1
 012 CHALLENGE #2
+
+03 - CSS Fundamentals
