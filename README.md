@@ -10,3 +10,4 @@
 009 A Note on Semantic HTML
 010 Installing Additional VS Code Extensions
 011 CHALLENGE #1
+012 CHALLENGE #2
