@@ -18,3 +18,4 @@
 003 Inline, Internal and External CSS
 004 Styling Text
 005 Combining Selectors
+006 Class and ID Selectors
