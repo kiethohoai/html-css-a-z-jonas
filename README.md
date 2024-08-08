@@ -8,3 +8,4 @@
 007 Hyperlinks
 008 Structuring our Page
 009 A Note on Semantic HTML
+010 Installing Additional VS Code Extensions
