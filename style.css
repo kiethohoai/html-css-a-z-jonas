@@ -160,3 +160,8 @@ nav {
   width: 100%;
   height: auto;
 }
+
+.container {
+  width: 700px;
+  margin: 0 auto;
+}

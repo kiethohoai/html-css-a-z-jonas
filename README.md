@@ -28,3 +28,5 @@
 013 CHALLENGE #1
 014 CSS Theory #3 The CSS Box Model
 015 Using Margins and Paddings
+016 Adding Dimensions
+017 Centering our Page
