@@ -13,10 +13,12 @@ body {
   background-color: #f7f7f7;
   /* padding: 20px; */
   padding: 20px 40px;
+  height: 80px;
 }
 
 .post-header {
   margin-bottom: 40px;
+  margin-top: 40px;
 }
 
 aside {
@@ -24,6 +26,7 @@ aside {
   border-top: 5px solid #1098ad;
   border-bottom: 5px solid #1098ad;
   padding: 50px 0;
+  width: 500px;
 }
 
 h1,
@@ -46,7 +49,7 @@ h2 {
 h3 {
   font-size: 30px;
   margin-bottom: 20px;
-  margin-top:  40px;
+  margin-top: 40px;
 }
 
 h4 {
@@ -151,4 +154,9 @@ nav p {
 
 nav {
   font-size: 18px;
+}
+
+.post-image {
+  width: 100%;
+  height: auto;
 }
