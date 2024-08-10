@@ -24,3 +24,4 @@
 009 Styling Hyperlinks
 010 Using Chrome DevTools
 011 CSS Theory #1 Conflicts Between Selectors
+012 CSS Theory #2 Inheritance and the Universal Selector
