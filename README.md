@@ -45,3 +45,5 @@
 004 Clearing Floats
 005 Building a Simple Float Layout
 006 box-sizing border-box
+007 CHALLENGE #1
+008 Introduction to Flexbox
