@@ -155,7 +155,7 @@ h1::first-letter {
 }
 
 h2 {
-  background-color: aquamarine;
+  /* background-color: aquamarine; */
   position: relative;
 }
 
