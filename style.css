@@ -9,6 +9,11 @@ body {
   border-top: 10px solid #1098ad;
 }
 
+.container {
+  width: 700px;
+  margin: 0 auto;
+}
+
 .main-header {
   background-color: #f7f7f7;
   /* padding: 20px; */
@@ -92,22 +97,6 @@ li {
   list-style: none;
 }
 
-/* body {
-  background-color: orange;
-} */
-
-/* li:first-child {
-  font-weight: 900;
-}
-
-li:last-child {
-  font-weight: 900;
-} */
-
-/* li:nth-child(even) {
-  color: red;
-} */
-
 /* Styling links */
 
 a {
@@ -130,28 +119,6 @@ a:active {
   font-style: italic;
 }
 
-/* Conflict CSS */
-/* #copyright {
-  color: red;
-}
-
-.copyright {
-  color: blue;
-}
-
-.text {
-  color: green;
-}
-
-footer p {
-  color: #1098ad;
-} */
-
-/* nav a:link,
-nav p {
-  font-size: 32px;
-} */
-
 nav {
   font-size: 18px;
 }
@@ -161,7 +128,12 @@ nav {
   height: auto;
 }
 
-.container {
-  width: 700px;
-  margin: 0 auto;
+nav a:link {
+  display: inline-block;
+  margin-right: 30px;
+  margin-top: 10px;
+}
+
+nav a:link:last-child {
+  margin-right: 0;
 }
