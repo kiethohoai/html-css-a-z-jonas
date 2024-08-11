@@ -147,3 +147,36 @@ button {
   bottom: 50px;
   right: 50px;
 }
+
+/* 021 Pseudo-elements */
+h1::first-letter {
+  font-style: normal;
+  margin-right: 5px;
+}
+
+h2 {
+  background-color: aquamarine;
+  position: relative;
+}
+
+h2::after {
+  content: 'TOP';
+  background-color: #ffe70e;
+  font-size: 16px;
+  font-weight: bold;
+  display: inline-block;
+  padding: 5px 10px;
+  position: absolute;
+  right: -22px;
+  top: -14px;
+  color: #000;
+  font-weight: 800;
+}
+
+/* h3 + p::first-line {
+  color: red;
+} */
+
+/* h2::first-letter {
+  font-size: 70px;
+} */
