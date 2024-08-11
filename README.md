@@ -44,3 +44,4 @@
 003 Using Floats
 004 Clearing Floats
 005 Building a Simple Float Layout
+006 box-sizing border-box
