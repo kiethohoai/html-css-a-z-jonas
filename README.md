@@ -43,3 +43,4 @@
 002 The 3 Ways of Building Layouts
 003 Using Floats
 004 Clearing Floats
+005 Building a Simple Float Layout
