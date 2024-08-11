@@ -40,3 +40,4 @@
 
 04 - Layouts Floats, Flexbox, and CSS Grid Fundamentals
 001 Section Intro
+002 The 3 Ways of Building Layouts
