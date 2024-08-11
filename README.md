@@ -34,3 +34,4 @@
 019 CSS Theory #4 Types of Boxes
 020 CSS Theory #5 Absolute Positioning
 021 Pseudo-elements
+022 Developer Skill #1 Googling and Reading Documentation
