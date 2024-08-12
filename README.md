@@ -55,3 +55,4 @@
 014 CHALLENGE #2
 015 Introduction to CSS Grid
 016 A CSS Grid Overview
+017 Sizing Grid Columns and Rows
