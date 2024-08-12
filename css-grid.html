@@ -14,7 +14,7 @@
       }
       .el--3 {
         background-color: green;
-        /* height: 200px; */
+        height: 150px;
       }
       .el--4 {
         background-color: goldenrod;
@@ -44,8 +44,8 @@
         /* grid-template-columns: 1fr 1fr 1fr 1fr; */
         grid-template-columns: repeat(4, 1fr);
         grid-template-rows: 1fr 1fr;
-        gap: 16px;
-        height: 500px;
+        gap: 20px;
+        /* height: 500px; */
       }
 
       .container--2 {
@@ -61,6 +61,16 @@
 
         /* CSS GRID */
       }
+
+      .el--8 {
+        grid-column: 2 / 3;
+        grid-row: 1 / 2;
+      }
+
+      .el--2 {
+        grid-column: 1 / -1;
+        grid-row: 2 / 3;
+      }
     </style>
   </head>
   <body>
@@ -71,7 +81,7 @@
       <div class="el el--4">(4) are</div>
       <div class="el el--5">(5) amazing</div>
       <div class="el el--6">(6) languages</div>
-      <div class="el el--7">(7) to</div>
+      <!-- <div class="el el--7">(7) to</div> -->
       <div class="el el--8">(8) learn</div>
     </div>
 
