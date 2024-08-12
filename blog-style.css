@@ -9,18 +9,18 @@ body {
   line-height: 1.4;
 }
 
-.clearfix::after {
+/* .clearfix::after {
   content: '';
   display: block;
   clear: both;
-}
+} */
 
 /* .container {
   background-color: red;
 } */
 
 .product-img {
-  float: left;
+  /* float: left; */
   margin-right: 40px;
 }
 
@@ -43,15 +43,15 @@ body {
 /* PRODUCT INFORMATION */
 .product-info {
   /*  (825 - 8 - 250 - 80) / 2  */
-  width: 243px;
-  float: left;
+  /* width: 243px;
+  float: left; */
   margin-right: 40px;
   margin-top: 20px;
 }
 
 .price {
   font-size: 24px;
-  float: left;
+  /* float: left; */
 }
 
 .shipping {
@@ -60,7 +60,7 @@ body {
   font-weight: bold;
   color: #777;
   margin-bottom: 20px;
-  float: right;
+  /* float: right; */
   margin-top: 8px;
 }
 
@@ -124,8 +124,8 @@ body {
 
 /* PRODUCT DETAILS */
 .product-details {
-  width: 243px;
-  float: left;
+  /* width: 243px; */
+  /* float: left; */
   margin-top: 20px;
 }
 
@@ -160,4 +160,45 @@ body {
 .add-cart:hover {
   color: #000;
   background-color: #fff;
+}
+
+/* MY CODE TODAY */
+.container {
+  display: flex;
+  align-items: flex-start;
+  overflow: hidden;
+  gap: 16px;
+}
+
+.product-img {
+  /* background-color: red; */
+  margin-right: 0;
+  flex: 1;
+}
+
+.product-info {
+  /* background-color: #90cc20; */
+  margin-top: 0;
+  margin-right: 0;
+  flex: 1;
+  margin-top: 16px;
+}
+
+.product-price {
+  display: flex;
+  align-items: center;
+  gap: 48px;
+}
+
+.shipping {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.product-details {
+  /* background-color: #f0bf1e; */
+  margin-top: 0;
+  flex: 1;
+  margin-top: 22px;
+
 }
