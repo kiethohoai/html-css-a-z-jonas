@@ -66,3 +66,4 @@
 002 Project Overview
 003 Overview of Web Design and Website Personalities
 004 Web Design Rules #1 Typography
+005 Implementing Typography
