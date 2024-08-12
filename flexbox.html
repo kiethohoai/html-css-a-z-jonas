@@ -17,12 +17,25 @@
         display: flex;
         justify-content: center;
         align-items: center;
-        gap: 8px;
+        /* gap: 8px; */
+      }
+
+      .el {
+        /* DEFAULT
+        flex-grow: 0;
+        flex-shrink: 1;
+        flex-basis: auto;
+         */
+
+        /* flex-basis: 200px; */
+        flex-shrink: 0;
+        flex-grow: 1;
       }
 
       .el--1 {
         background-color: blueviolet;
         /* order: 2; */
+        flex-grow: 2;
       }
       .el--2 {
         background-color: orangered;
@@ -57,9 +70,9 @@
       <div class="el el--3">CSS</div>
       <div class="el el--4">are</div>
       <div class="el el--5">amazing</div>
-      <div class="el el--6">languages</div>
+      <!-- <div class="el el--6">languages</div>
       <div class="el el--7">to</div>
-      <div class="el el--8">learn</div>
+      <div class="el el--8">learn</div> -->
     </div>
   </body>
 </html>
