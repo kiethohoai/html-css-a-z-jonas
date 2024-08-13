@@ -69,3 +69,4 @@
 005 Implementing Typography
 006 Web Design Rules #2 Colors
 007 Implementing Colors
+008 Web Design Rules #3 Images and Illustrations
