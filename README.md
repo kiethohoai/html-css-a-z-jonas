@@ -77,3 +77,4 @@
 013 Web Design Rules #6 Border-radius
 014 Implementing Border-radius
 015 Web Design Rules #7 Whitespace
+016 Web Design Rules #8 Visual Hierarchy
