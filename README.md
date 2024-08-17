@@ -84,3 +84,5 @@
 020 The Missing Piece Steal Like An Artist!
 ===========================================
 06 - Components and Layout Patterns
+001 Section Intro
+002 Web Design Rules #10 - Part 1 Elements and Components
