@@ -80,3 +80,4 @@
 016 Web Design Rules #8 Visual Hierarchy
 017 Implementing Whitespace and Visual Hierarchy
 018 Web Design Rules #9 User Experience (UX)
+019 The Website-Personalities-Framework
