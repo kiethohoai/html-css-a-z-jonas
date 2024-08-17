@@ -90,3 +90,4 @@
 004 Building an Accordion Component - Part 2
 005 Building a Carousel Component - Part 1
 006 Building a Carousel Component - Part 2
+007 Building a Table Component - Part 1
