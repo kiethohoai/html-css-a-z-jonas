@@ -92,3 +92,4 @@
 006 Building a Carousel Component - Part 2
 007 Building a Table Component - Part 1
 008 Building a Table Component - Part 2
+009 CHALLENGE #1 Building a Pagination Component
