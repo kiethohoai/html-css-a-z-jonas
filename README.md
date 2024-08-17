@@ -87,3 +87,4 @@
 001 Section Intro
 002 Web Design Rules #10 - Part 1 Elements and Components
 003 Building an Accordion Component - Part 1
+004 Building an Accordion Component - Part 2
