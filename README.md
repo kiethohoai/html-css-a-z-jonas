@@ -93,3 +93,4 @@
 007 Building a Table Component - Part 1
 008 Building a Table Component - Part 2
 009 CHALLENGE #1 Building a Pagination Component
+010 Web Design Rules #10 - Part 2 Layout Patterns
