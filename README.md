@@ -11,7 +11,7 @@
 010 Installing Additional VS Code Extensions
 011 CHALLENGE #1
 012 CHALLENGE #2
-
+===========================================
 03 - CSS Fundamentals
 001 Section Intro
 002 Introduction to CSS
@@ -37,7 +37,7 @@
 022 Developer Skill #1 Googling and Reading Documentation
 023 Developer Skill #2 Debugging and Asking Questions
 024 CHALLENGE #3
-
+===========================================
 04 - Layouts Floats, Flexbox, and CSS Grid Fundamentals
 001 Section Intro
 002 The 3 Ways of Building Layouts
@@ -60,7 +60,7 @@
 019 Aligning Grid Items and Tracks
 020 Building a Simple CSS Grid Layout
 021 CHALLENGE #3
-
+===========================================
 05 - Web Design Rules and Framework
 001 Section Intro
 002 Project Overview
@@ -82,3 +82,5 @@
 018 Web Design Rules #9 User Experience (UX)
 019 The Website-Personalities-Framework
 020 The Missing Piece Steal Like An Artist!
+===========================================
+06 - Components and Layout Patterns
