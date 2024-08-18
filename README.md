@@ -96,3 +96,4 @@
 010 Web Design Rules #10 - Part 2 Layout Patterns
 011 Building a Hero Section - Part 1
 012 Building a Hero Section - Part 2
+013 Building a Web Application Layout - Part 1
