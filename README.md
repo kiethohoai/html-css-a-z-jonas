@@ -94,3 +94,5 @@
 008 Building a Table Component - Part 2
 009 CHALLENGE #1 Building a Pagination Component
 010 Web Design Rules #10 - Part 2 Layout Patterns
+011 Building a Hero Section - Part 1
+012 Building a Hero Section - Part 2
