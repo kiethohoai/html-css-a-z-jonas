@@ -98,3 +98,5 @@
 012 Building a Hero Section - Part 2
 013 Building a Web Application Layout - Part 1
 014 Building a Web Application Layout - Part 2
+===========================================
+07 - Omnifood Project – Setup and Desktop Version
