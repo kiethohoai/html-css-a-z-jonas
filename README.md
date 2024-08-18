@@ -101,3 +101,4 @@
 ===========================================
 07 - Omnifood Project – Setup and Desktop Version
 001 Section Intro
+002 The 7 Steps to a Great Website
