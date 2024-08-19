@@ -46,10 +46,15 @@ body {
   color: #555;
 }
 
-.test {
-  background-color: red;
-  padding: 100px;
-  max-width: 80rem;
-  color: white;
-  font-size: 3.2rem;
+/* HERO CSS */
+.hero {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  max-width: 130rem;
+  background-color: aquamarine;
+  margin: 0 auto;
+}
+
+.hero-image {
+  width: 100%;
 }
