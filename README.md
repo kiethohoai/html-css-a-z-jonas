@@ -123,3 +123,4 @@
 021 Building the Testimonials Section - Part 2
 022 Building the Pricing Section - Part 1
 023 Building the Pricing Section - Part 2
+024 Building the Features Part
