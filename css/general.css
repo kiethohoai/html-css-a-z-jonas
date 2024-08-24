@@ -44,8 +44,7 @@ body {
   color: #555;
 }
 
-/* GENERAL REUSED COMPONENTS */
-/* ============ */
+/* //todo GENERAL REUSED COMPONENTS */
 .container {
   /* 1140 */
   max-width: 120rem;
@@ -113,7 +112,7 @@ body {
   letter-spacing: 0.75px;
 }
 
-/* BTN */
+/* //todo BUTTON */
 .btn:link,
 .btn:visited {
   text-decoration: none;
@@ -123,7 +122,7 @@ body {
   display: inline-block;
   padding: 1.6rem 3.2rem;
   border-radius: 9px;
-  transition: background-color 0.3s;
+  transition: all 0.3s;
 }
 
 .btn--full:link,
@@ -148,6 +147,35 @@ body {
   box-shadow: inset 0 0 0 3px #fff;
 }
 
+.link:link,
+.link:visited {
+  display: inline-block;
+  color: #e67e22;
+  text-decoration: none;
+  border-bottom: 1px solid currentColor;
+  padding-bottom: 2px;
+  transition: all 0.3s;
+}
+
+.link:hover,
+.link:active {
+  color: #cf711f;
+  border-bottom: 1px solid transparent;
+}
+
+/* //todo HELPER/SETTING CLASSES */
 .margin-right-sm {
-  margin-right: 1.6rem;
+  margin-right: 1.6rem !important;
+}
+
+.margin-botton-md {
+  margin-bottom: 4.8rem !important;
+}
+
+.center-text {
+  text-align: center;
+}
+
+strong {
+  font-weight: 500;
 }
