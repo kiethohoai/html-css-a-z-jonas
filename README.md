@@ -121,3 +121,4 @@
 019 Building the Meals Section - Part 3
 020 Building the Testimonials Section - Part 1
 021 Building the Testimonials Section - Part 2
+022 Building the Pricing Section - Part 1
