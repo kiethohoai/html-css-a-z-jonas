@@ -131,3 +131,4 @@
 029 Building the Footer - Part 2
 
 ### 08 - Omnifood Project – Responsive Web Design
+002 How Media Queries Work
