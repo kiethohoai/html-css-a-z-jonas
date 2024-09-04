@@ -1,0 +1,16 @@
+/* ===================================== */
+/* //todo BELOW 1344px (Smaller Desktop) */
+/* ===================================== */
+@media (max-width: 84em) {
+  .hero {
+    max-width: 120em;
+  }
+
+  .heading-primary {
+    font-size: 4.4rem;
+  }
+
+  .gallery {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}

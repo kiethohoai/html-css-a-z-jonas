@@ -133,3 +133,4 @@
 ### 08 - Omnifood Project – Responsive Web Design
 002 How Media Queries Work'
 003 How to Select Breakpoints
+004 Responding to Small Laptops
