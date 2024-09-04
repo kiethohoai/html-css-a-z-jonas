@@ -128,3 +128,4 @@
 026 Building the Call-To-Action Section - Part 2
 027 Building the Call-To-Action Section - Part 3
 028 Building the Footer - Part 1
+029 Building the Footer - Part 2
