@@ -136,3 +136,4 @@
 003 How to Select Breakpoints
 004 Responding to Small Laptops 8p
 005 Responding to Landscape Tablets
+006 Responding to Tablets
