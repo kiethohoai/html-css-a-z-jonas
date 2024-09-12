@@ -131,6 +131,8 @@
 029 Building the Footer - Part 2
 
 ### 08 - Omnifood Project – Responsive Web Design
+
 002 How Media Queries Work'
 003 How to Select Breakpoints
-004 Responding to Small Laptops
+004 Responding to Small Laptops 8p
+005 Responding to Landscape Tablets
