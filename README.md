@@ -149,3 +149,4 @@
 005 Implementing a Sticky Navigation Bar
 006 Browser Support and Fixing Flexbox Gap in Safari
 007 Testing Performance With Lighthouse
+008 Adding Favicon and Meta Description
