@@ -142,3 +142,5 @@
 009 Responding to Phones
 
 ### 09 - Omnifood Project – Effects, Optimizations and Deployment
+
+002 A Short Introduction to JavaScript
