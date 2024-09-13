@@ -144,3 +144,4 @@
 ### 09 - Omnifood Project – Effects, Optimizations and Deployment
 
 002 A Short Introduction to JavaScript
+003 Making the Mobile Navigation Work
