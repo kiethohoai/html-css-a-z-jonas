@@ -138,3 +138,4 @@
 005 Responding to Landscape Tablets
 006 Responding to Tablets
 007 Building the Mobile Navigation
+008 Responding to Smaller Tablets
