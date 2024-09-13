@@ -145,3 +145,4 @@
 
 002 A Short Introduction to JavaScript
 003 Making the Mobile Navigation Work
+004 Implementing Smooth Scrolling
