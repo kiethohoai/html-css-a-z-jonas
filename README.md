@@ -147,3 +147,4 @@
 003 Making the Mobile Navigation Work
 004 Implementing Smooth Scrolling
 005 Implementing a Sticky Navigation Bar
+006 Browser Support and Fixing Flexbox Gap in Safari

@@ -42,7 +42,6 @@ allLinks.forEach(function (link) {
 const obs = new IntersectionObserver(
   function (entries) {
     const ent = entries[0];
-    console.log("🚀🚀🚀  ent=", ent);
     if (!ent.isIntersecting) {
       document.body.classList.add("sticky");
     } else {
